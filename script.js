@@ -1,1 +1,2 @@
-alert ("hello Open ClassRooms")
+var hello = "hello OpenClassRooms
+alert (hello)

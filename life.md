@@ -1,0 +1,1 @@
+Life est l'application android que je compte coder pour y loger une IA sociale et solidaire.
